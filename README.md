@@ -3,7 +3,7 @@ This project demonstrates how K-means clustering can be applied to petrophysical
 
 ## Notebooks included
 1. `Converting LAS file data to CSV format`: This code takes **LAS** files and converts them into CSV format
-2. `Combine CSV files`: This code combines several CSV files with the same header into a single file
+2. `Combine CSV files`: This code combines several **CSV** files with the same header into a single file
 3. `Facies Classification`: This code demonstrates the application of K-means clustering to petrophysical data and interpretation of the geology
 
 
